@@ -1,0 +1,5 @@
+message:
+    welcome: "¡Bienvenido al Servicio B!"
+
+server:
+    port: 8082
