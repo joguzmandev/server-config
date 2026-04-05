@@ -1,5 +1,5 @@
 message:
-    welcome: "¡Bienvenido al Servicio A!"
+    welcome: "¡Bienvenido al Servicio A, con actualizacion en tiempo real"
 
 server:
     port: 8089
